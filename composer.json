@@ -1,0 +1,26 @@
+{
+    "name": "volkovea/digift",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Evgeniy Volkov",
+            "email": "v0lkovea@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.0",
+        "volkovea/console-command": "0.1"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/VolkovEA/ConsoleCommander"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
