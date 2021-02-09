@@ -4,6 +4,11 @@ namespace App\Commands;
 
 use ConsoleCommander\Command;
 
+/**
+ * Class EchoCommand
+ *
+ * Command to echo arguments and options list
+ */
 class EchoCommand extends Command
 {
     /**

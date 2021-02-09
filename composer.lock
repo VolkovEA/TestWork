@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/VolkovEA/ConsoleCommander.git",
-                "reference": "01ea6e113ebd69a2713f08fd4065a12f4e804184"
+                "reference": "39fd4876ffa2e8fcc29a1abf2f8d9a130f2d7dff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/VolkovEA/ConsoleCommander/zipball/01ea6e113ebd69a2713f08fd4065a12f4e804184",
-                "reference": "01ea6e113ebd69a2713f08fd4065a12f4e804184",
+                "url": "https://api.github.com/repos/VolkovEA/ConsoleCommander/zipball/39fd4876ffa2e8fcc29a1abf2f8d9a130f2d7dff",
+                "reference": "39fd4876ffa2e8fcc29a1abf2f8d9a130f2d7dff",
                 "shasum": ""
             },
             "require": {
@@ -51,7 +51,7 @@
                 "source": "https://github.com/VolkovEA/ConsoleCommander/tree/0.1",
                 "issues": "https://github.com/VolkovEA/ConsoleCommander/issues"
             },
-            "time": "2021-02-09T11:47:19+00:00"
+            "time": "2021-02-09T17:42:13+00:00"
         }
     ],
     "packages-dev": [],
